@@ -1,0 +1,33 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+issueTrackerURL="https://github.com/your-org/civilization-ai/issues"
+
+[[mods]]
+modId="civilizationai"
+version="${file.jarVersion}"
+displayName="Civilization AI"
+displayURL="https://github.com/your-org/civilization-ai"
+logoFile="civilizationai_logo.png"
+credits="Civilization AI Team"
+authors="Civilization AI Team"
+description='''
+The villagers are no longer NPCs. They become a living civilization.
+Villages grow organically: population, districts, roads, economy, defense
+and technology all emerge from autonomous villager decision-making rather
+than scripted progression.
+'''
+
+[[dependencies.civilizationai]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.civilizationai]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1,1.21)"
+    ordering="NONE"
+    side="BOTH"

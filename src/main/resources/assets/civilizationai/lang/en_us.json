@@ -1,0 +1,17 @@
+{
+  "itemGroup.civilizationai": "Civilization AI",
+
+  "config.civilizationai.title": "Civilization AI Configuration",
+
+  "command.civilizationai.info": "Civilization info",
+  "command.civilizationai.stats": "Civilization statistics",
+
+  "civilizationai.incident.famine": "%s is suffering a famine — food stores are empty.",
+  "civilizationai.incident.drought": "A drought has struck %s — farm yields are reduced.",
+  "civilizationai.incident.disease": "Disease has broken out in %s — production has slowed.",
+  "civilizationai.incident.fire": "A fire has broken out in %s!",
+  "civilizationai.incident.bandit_raid": "%s is under threat — bandits have been spotted nearby!",
+  "civilizationai.incident.harvest_festival": "%s is celebrating a bountiful harvest!",
+  "civilizationai.incident.market_boom": "%s's markets are booming with surplus goods.",
+  "civilizationai.incident.civil_unrest": "Tensions are rising in %s."
+}
